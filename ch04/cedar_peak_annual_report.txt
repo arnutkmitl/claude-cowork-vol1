@@ -1,0 +1,37 @@
+ANNUAL REPORT SUMMARY: Cedar Peak Software Inc.
+Fiscal year: January 1 to December 31, last year
+
+1. Business overview
+Cedar Peak sells cloud ERP software to small and mid-sized
+businesses. Founded seven years ago; 45 employees; head office
+in Denver.
+
+2. Results
+Total revenue: $1,845,000 (up 23% on the prior year)
+Net profit: $289,000 (15.7% margin)
+New customers: 89 companies (target: 80)
+Customer retention: 87%
+Annual recurring revenue (ARR): $1,791,000
+
+3. Products
+- ERP Standard: 420 customers at $250/month; revenue $1,260,000
+- ERP Pro: 75 customers at $590/month; revenue $531,000
+- Consulting: revenue $54,000
+
+4. Markets and growth
+Metro areas: 58% of revenue (up 18%)
+Regional markets: 42% (up 31%; the fastest-growing segment)
+Industries: retail 35%, manufacturing 28%, services 22%,
+other 15%
+
+5. Challenges
+- Customer acquisition cost rose 15% as competition increased
+- Churn among the smallest customers (1-10 staff) is 18%
+- Too few support staff; NPS fell from 42 to 38
+
+6. Plan for this year
+- Launch an ERP mobile app (Q2)
+- Grow the support team from 5 to 8 people
+- Add a partner sales channel
+- Revenue target: $2,400,000 (30% growth)
+- New customer target: 120 companies

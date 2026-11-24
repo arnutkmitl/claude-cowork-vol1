@@ -1,0 +1,27 @@
+Candidate 1: Sam Carter
+Role: Senior Developer
+Education: BSc Computer Science
+Experience: 5 years (travel platform 2 years, bank tech unit
+3 years)
+Skills: Python, React, AWS, Docker, PostgreSQL
+Salary expectation: $7,000/month
+English: native
+Notes: open-source contributions; AWS certified
+
+Candidate 2: Priya Nair
+Role: Senior Developer
+Education: MSc Computer Engineering
+Experience: 2 years (startup), 6 months freelance
+Skills: JavaScript, Vue.js, Node.js, MySQL
+Salary expectation: $5,500/month
+English: intermediate
+Notes: led a team of three at the startup
+
+Candidate 3: Daniel Okafor
+Role: Senior Developer
+Education: BSc Information Technology
+Experience: 8 years (bank 4 years, telecom 4 years)
+Skills: Java, Spring Boot, Oracle, Kafka, Kubernetes
+Salary expectation: $8,500/month
+English: basic
+Notes: Java professional certification; no online portfolio

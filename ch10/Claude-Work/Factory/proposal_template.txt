@@ -1,0 +1,27 @@
+PROPOSAL
+
+To: {{CLIENT_NAME}}
+Company: {{CLIENT_COMPANY}}
+Date: {{DATE}}
+Proposal no.: {{PROPOSAL_NO}}
+Subject: Proposal for {{SERVICE_NAME}}
+
+Dear {{CLIENT_NAME}},
+
+Thank you for the opportunity to propose our services. As
+discussed, we are pleased to offer {{SERVICE_NAME}} for
+{{CLIENT_COMPANY}}, as follows.
+
+Scope of work:
+{{SERVICE_ITEMS}}
+
+Total: {{TOTAL_AMOUNT}} (taxes included)
+Timeline: {{TIMELINE}}
+Payment terms: {{PAYMENT_TERMS}}
+This proposal is valid until {{EXPIRY_DATE}}.
+
+If you have any questions, please contact {{CONTACT_EMAIL}}.
+
+Sincerely,
+{{SENDER_NAME}}
+{{SENDER_TITLE}}

@@ -1,0 +1,8 @@
+project,client,team,start,due,status,progress_pct,budget_usd,spent_usd,notes
+Website Redesign,Harbor Foods,Design,2027-01-01,2027-03-31,Delayed,65,25000,19800,Waiting for client content
+Mobile App v2,Lakeview Clinic,Dev,2027-01-15,2027-04-30,On track,40,45000,16500,
+ERP Integration,Pine Street Bank,Dev,2027-02-01,2027-05-31,On track,25,38000,8900,
+Brand Identity,Northgate Retail,Design,2027-02-01,2027-02-28,Complete,100,12000,11500,Delivered
+SEO Campaign,Harbor Foods,Marketing,2027-02-15,2027-05-15,On track,30,8500,2300,
+Data Migration,Summit Logistics,Dev,2027-03-01,2027-04-30,Delayed,15,20000,4500,Legacy system issues
+Social Media,Riverbend Hotels,Marketing,2027-03-01,2027-08-31,On track,10,18000,1500,

@@ -1,0 +1,4 @@
+CLIENT_NAME,CLIENT_COMPANY,SERVICE_NAME,SERVICE_ITEMS,TOTAL_AMOUNT,TIMELINE,PAYMENT_TERMS,EXPIRY_DATE,CONTACT_EMAIL,SENDER_NAME,SENDER_TITLE
+Sam Carter,Harbor Foods,Website Development,"1. UI/UX design 2. Front end 3. Back-end API 4. Testing",$8500,45 days,50% upfront and 50% on delivery,2027-04-30,sales@example.com,Alex Morgan,Sales Manager
+Priya Nair,Lakeview Clinic,Mobile Application,"1. iOS app 2. Android app 3. Back-end API 4. Admin panel",$25000,90 days,30% upfront 40% at midpoint 30% on delivery,2027-04-30,sales@example.com,Alex Morgan,Sales Manager
+Daniel Okafor,Summit Logistics,ERP Integration,"1. Analysis 2. Integration design 3. Development 4. Testing 5. Training",$38000,120 days,Four milestone payments,2027-05-15,sales@example.com,Alex Morgan,Sales Manager
