@@ -13,7 +13,7 @@ The book prints `clients_data.csv` with each record wrapped over several lines; 
 
 ## Expected result
 
-Three proposals, `PROP-2027-001` to `PROP-2027-003`, in `Factory/Output/`, with no `{{` or `}}` left, and `Factory/proposal_index.csv` listing all three with a total of $71,500 ($8,500 + $25,000 + $38,000). For Step 4, add a fourth client row of your own to the CSV; the next run should create only `PROP-2027-004`.
+Three proposals (for example `PROP-2027-001` to `PROP-2027-003`; the year is the current one), in `Factory/Output/`, with no `{{` or `}}` left, and `Factory/proposal_index.csv` listing all three with a total of $71,500 ($8,500 + $25,000 + $38,000). For Step 4, add a fourth client row of your own to the CSV; the next run should create only the next number, such as `PROP-2027-004`.
 
 ## Not included
 

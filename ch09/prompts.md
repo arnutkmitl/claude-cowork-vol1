@@ -89,7 +89,7 @@ single notification listing what arrived.
 Result: the briefing waiting in the app, plus a notification
 ```
 
-### Daily file organizer, every day at 6:00 p.m.
+### Daily file organizer, daily at 6:00 p.m.
 
 ```text
 Run the daily file organizer on the Downloads copy.
